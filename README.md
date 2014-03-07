@@ -52,3 +52,4 @@ and remains there. I chose to have the elevators stop at each floor for 3 clock 
 
 
 Documentation: I referred to my class notes for the syntax of both processes as well as cases. I had a little trouble with the syntax for the if and elsif statements,I was putting elseif instead of elsif, but soon resolved those.
+ 
